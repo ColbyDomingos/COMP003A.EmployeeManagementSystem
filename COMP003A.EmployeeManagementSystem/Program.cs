@@ -5,13 +5,7 @@
 
 namespace COMP003A.EmployeeManagementSystem
 {
-    /// <summary>
-    /// Sets the Department Operations and plays the operate method
-    /// </summary>
-    interface IDepartmentOperations
-    {
-        void Operate();
-    }
+    
 
     internal class Program
     {
